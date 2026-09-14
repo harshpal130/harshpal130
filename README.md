@@ -2,7 +2,7 @@
 
 <h3><code>harshpal130@github ~ $ whoami</code></h3>
 
-<img src="./avi-ascii-static.svg" width="370" alt="Harsh — ASCII portrait" />
+<img src="./avi-ascii.svg" width="370" alt="Harsh — ASCII portrait" />
 
 <br>
 <br>
