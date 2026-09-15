@@ -6,17 +6,18 @@
 
 <br>
 <br>
+<br>
+
+<h3><code>harshpal130@github ~ $ ./contributions.sh</code></h3>
+<br>
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
+
+<br>
 
 <img src="./wordmark.svg" width="490" alt="Harsh — 3D ASCII wordmark" />
 
 <br>
-<br>
 
-<h3><code>harshpal130@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
-
-<br>
 <br>
 
 <h3><code>harshpal130@github ~ $ ./links.sh</code></h3>
